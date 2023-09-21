@@ -1,0 +1,13 @@
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=8f16373dcf0751f1a0fcbfbc85b392c4
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=8f16373dcf0751f1a0fcbfbc85b392c4
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
